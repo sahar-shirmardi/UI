@@ -1,0 +1,86 @@
+body {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: lightgray;
+}
+
+.navbar {
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+
+}
+.signup {
+  text-align: left;
+}
+
+.introduction {
+  margin: 2rem;
+  border-radius: 2rem;
+  padding: 2rem;
+  text-align: right;
+  background-color: #f8f9fa;
+}
+
+.features {
+  text-align: center;
+  margin : auto;
+  padding: 2rem;
+}
+.card {
+  text-align: center;
+  margin: 1rem;
+  border-radius: 1rem;
+  width: 20rem;
+  height: 20rem;
+}
+
+.cardNote:hover {
+  background-color: #007bff;
+  color: #f8f9fa;
+  -webkit-transition: background-color 500ms linear;
+  -ms-transition: background-color 500ms linear;
+  transition: background-color 500ms linear;
+}
+.cardQuestion:hover {
+  background-color: #28a745;
+  color: #f8f9fa;
+  -webkit-transition: background-color 500ms linear;
+  -ms-transition: background-color 500ms linear;
+  transition: background-color 500ms linear;
+}
+.cardTA:hover {
+  background-color: #ffc107;
+  color: #f8f9fa;
+  -webkit-transition: background-color 500ms linear;
+  -ms-transition: background-color 500ms linear;
+  transition: background-color 500ms linear;
+}
+.cardProject:hover {
+  background-color: #dc3545;
+  color: #f8f9fa;
+  -webkit-transition: background-color 500ms linear;
+  -ms-transition: background-color 500ms linear;
+  transition: background-color 500ms linear;
+}
+.cardContest:hover {
+  background-color: #868e96;
+  color: #f8f9fa;
+  -webkit-transition: background-color 500ms linear;
+  -ms-transition: background-color 500ms linear;
+  transition: background-color 500ms linear;
+}
+.cardProfile:hover {
+  background-color: #343a40;
+  color: #f8f9fa;
+  -webkit-transition: background-color 500ms linear;
+  -ms-transition: background-color 500ms linear;
+  transition: background-color 500ms linear;
+}
+
+.footer {
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  margin-bottom: 0;
+  text-align: center;
+  background-color: #f8f9fa;
+}
