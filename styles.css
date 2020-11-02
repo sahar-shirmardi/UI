@@ -35,42 +35,42 @@ body {
 }
 
 .cardNote:hover {
-  background-color: #007bff;
+  background-color: #56a8ff;
   color: #f8f9fa;
   -webkit-transition: background-color 500ms linear;
   -ms-transition: background-color 500ms linear;
   transition: background-color 500ms linear;
 }
 .cardQuestion:hover {
-  background-color: #28a745;
+  background-color: #3ad65f;
   color: #f8f9fa;
   -webkit-transition: background-color 500ms linear;
   -ms-transition: background-color 500ms linear;
   transition: background-color 500ms linear;
 }
 .cardTA:hover {
-  background-color: #ffc107;
+  background-color: #ffd555;
   color: #f8f9fa;
   -webkit-transition: background-color 500ms linear;
   -ms-transition: background-color 500ms linear;
   transition: background-color 500ms linear;
 }
 .cardProject:hover {
-  background-color: #dc3545;
+  background-color: #ff475a;
   color: #f8f9fa;
   -webkit-transition: background-color 500ms linear;
   -ms-transition: background-color 500ms linear;
   transition: background-color 500ms linear;
 }
 .cardContest:hover {
-  background-color: #868e96;
+  background-color: #9ca5ad;
   color: #f8f9fa;
   -webkit-transition: background-color 500ms linear;
   -ms-transition: background-color 500ms linear;
   transition: background-color 500ms linear;
 }
 .cardProfile:hover {
-  background-color: #343a40;
+  background-color: #44494e;
   color: #f8f9fa;
   -webkit-transition: background-color 500ms linear;
   -ms-transition: background-color 500ms linear;
@@ -84,3 +84,4 @@ body {
   text-align: center;
   background-color: #f8f9fa;
 }
+
