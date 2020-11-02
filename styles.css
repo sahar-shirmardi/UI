@@ -2,6 +2,7 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   background-color: lightgray;
+  font-family:FarsiFont, Tahoma;
 }
 
 .navbar {
@@ -56,7 +57,7 @@ body {
   transition: background-color 500ms linear;
 }
 .cardProject:hover {
-  background-color: #ff475a;
+  background-color: #eb4959;
   color: #f8f9fa;
   -webkit-transition: background-color 500ms linear;
   -ms-transition: background-color 500ms linear;
@@ -85,3 +86,13 @@ body {
   background-color: #f8f9fa;
 }
 
+@font-face {
+  font-family: 'FarsiFont';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/vazir/Vazir-Bold.eot');
+  src: url('fonts/vazir/Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+     url('fonts/vazir/Vazir-Bold.woff2') format('woff2'),
+     url('fonts/vazir/Vazir-Bold.woff') format('woff'),
+     url('fonts/vazir/Vazir-Bold.ttf') format('truetype');
+  }
